@@ -1,0 +1,10 @@
+com\mycompany\rover\Direction.class
+com\mycompany\rover\CommandFactory.class
+com\mycompany\rover\Rover.class
+com\mycompany\rover\Command.class
+com\mycompany\rover\TurnLeftCommand.class
+com\mycompany\rover\TurnRightCommand.class
+com\mycompany\rover\MoveCommand.class
+com\mycompany\rover\Grid.class
+com\mycompany\rover\MarsRover.class
+com\mycompany\rover\Position.class
