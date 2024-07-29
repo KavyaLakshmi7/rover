@@ -1,0 +1,14 @@
+R.KAVYA LAKSHMI
+
+Project: Breast cancer classification using connectivity aware graph transformer
+
+Abstract:
+
+1.This project aims to classify the breast cancer subtypes from pathology images which are digitalized by attaining the pathology test patches from hospital resource and normalized using gan.
+2.The major complication of spatial patterns of cells are overcome by the graph transformer which capture long range dependencies.
+3.Connectivity aware graph transformers creates the topological connectivity of the tissue graph constructed from digital pathology images.
+4.The spatial distance between arbitrary nodes are encoded as connectivity bias in self attention in order to harness the connectivity of the nodes. 
+5.This CGT is evaluated on a large cohort of breast carcinoma digital pathology image stained by haematoxylin and eosin.
+6.This would outstand the accuracy of state of art methods as the node is constructed for tissue and not for cell.
+7.The encoding leads to local connectivity aggregation and connectivity bias in self attention with multi head attention leads to classification of breast cancer.
+8.Initially the dataset used for this is BRACS region of interest dataset. Then the normalized gan applied images are tested.
