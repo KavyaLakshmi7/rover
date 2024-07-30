@@ -1,0 +1,6 @@
+com\mycompany\decoratorpattern\Decoratorpattern.class
+com\mycompany\decoratorpattern\CoffeeDecorator.class
+com\mycompany\decoratorpattern\SimpleCoffee.class
+com\mycompany\decoratorpattern\SugarDecorator.class
+com\mycompany\decoratorpattern\Coffee.class
+com\mycompany\decoratorpattern\MilkDecorator.class
