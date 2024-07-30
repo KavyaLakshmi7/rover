@@ -1,7 +1,0 @@
-com\mycompany\statepattern\NoCoinState.class
-com\mycompany\statepattern\HasCoinState.class
-com\mycompany\statepattern\SoldState.class
-com\mycompany\statepattern\State.class
-com\mycompany\statepattern\VendingMachine.class
-com\mycompany\statepattern\Statepattern.class
-com\mycompany\statepattern\SoldOutState.class
